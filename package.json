@@ -2,7 +2,7 @@
   "name": "shangeeth",
   "version": "1.0.0",
   "description": "Online_Motorcycle_Service_Booking_Web_Application",
-  "main": "index.js",
+  "main": "server.js",
   "engines": {
     "node": "15.7.0",
     "npm": "7.4.3"
