@@ -21,5 +21,4 @@ if (process.env.NODE_ENV === "production") {
 }
 const port = process.env.PORT || 9026;
 
-app.get("/", (req, res) => res.send("Hello World!"));
 app.listen(port, () => console.log(`Node Express Server Started at ${port}!`));
